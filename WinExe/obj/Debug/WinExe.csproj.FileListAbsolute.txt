@@ -1,0 +1,9 @@
+D:\Code\c#\WinExe\WinExe\bin\Debug\WinExe.exe.config
+D:\Code\c#\WinExe\WinExe\obj\Debug\WinExe.csprojResolveAssemblyReference.cache
+D:\Code\c#\WinExe\WinExe\obj\Debug\WinExe.Form1.resources
+D:\Code\c#\WinExe\WinExe\obj\Debug\WinExe.Properties.Resources.resources
+D:\Code\c#\WinExe\WinExe\obj\Debug\WinExe.csproj.GenerateResource.Cache
+D:\Code\c#\WinExe\WinExe\bin\Debug\WinExe.exe
+D:\Code\c#\WinExe\WinExe\bin\Debug\WinExe.pdb
+D:\Code\c#\WinExe\WinExe\obj\Debug\WinExe.exe
+D:\Code\c#\WinExe\WinExe\obj\Debug\WinExe.pdb
